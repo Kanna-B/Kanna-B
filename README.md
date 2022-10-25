@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kanna-B
 - 👀 I’m interested in WebDevelop front end
 - 🌱 I’m currently learning HTML5, CSS3, JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kannan.bk.basker@gmail.com
 
 <!---
